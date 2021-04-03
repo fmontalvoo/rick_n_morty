@@ -1,10 +1,10 @@
-const home = () => {
+const Home = () => {
     const view = `
         <div class="Characters">
             <article class="Character-item">
-                <a href="">
+                <a href="#/1/">
                     <img src="" alt="" />
-                    <h2></h2>
+                    <h2>Name</h2>
                 </a>
             </article>
         </div>
@@ -12,4 +12,4 @@ const home = () => {
     return view;
 }
 
-export default home;
+export default Home;
