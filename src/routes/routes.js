@@ -7,9 +7,8 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-    '/': Home,
-    '/:id': Character,
-    '/contact': 'Contact'
+    '/home': Home,
+    '/:id': Character
 }
 
 const router = async () => {

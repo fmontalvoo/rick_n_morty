@@ -2,7 +2,7 @@
 # Rick and Morty
 
 ## Página
-- [URL Web](https://fmontalvoo.github.io/rick_n_morty/)
+- [URL Web](https://fmontalvoo.github.io/rick_n_morty/#/home)
 
 ## Dependencias
 ```node
